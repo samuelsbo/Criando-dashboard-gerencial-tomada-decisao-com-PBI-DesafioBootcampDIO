@@ -18,9 +18,9 @@ Este projeto contém um relatório gerencial das vendas de diferentes produtos a
 Este relatório gerencial foi desenvolvido com o objetivo de fornecer uma visão clara e detalhada sobre as vendas e lucros de produtos em diferentes regiões e segmentos de mercado. Através do Power BI, criamos dashboards interativos que permitem aos usuários explorar os dados por diferentes filtros, como ano, país, produto e segmento. O relatório foi criado a partir de uma base de dados pré-processada em SQL e modelada no Power BI com um **Esquema Estrela**.
 
 ## Tecnologias Utilizadas
+- **Excel**: Para armazenamento dos dados
 - **Power BI Desktop**: Para limpeza, preparação dos dados e criação dos dashboards.
-- **SQL**: Para consultas e manipulação de dados.
-- **Excel**: Para armazenamento de dados adicionais (se necessário).
+
   
 ## Base de Dados
 
